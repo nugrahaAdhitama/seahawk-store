@@ -1,4 +1,4 @@
-document.querySelector('form').addEventListener('submit', function(e) {
+document.querySelector('.contact-form').addEventListener('submit', function(e) {
     e.preventDefault();
 
     let name = document.getElementById('name').value;
@@ -6,4 +6,4 @@ document.querySelector('form').addEventListener('submit', function(e) {
     let message = document.getElementById('message').value;
 
     alert('Thank you for contacting us, ' + name + '! We will get back to you soon.');
-})
+});

@@ -1,47 +1,142 @@
 body {
   font-family: Arial, sans-serif;
-}
-
-ul {
-  list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  color: #333;
 }
 
-li {
-  float: left;
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #fff;
 }
 
-li a {
-  display: block;
-  padding: 8-x;
+.header-logo {
+  width: 100px;
+}
+
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin-left: 1rem;
+}
+
+.nav-item a {
   text-decoration: none;
-  color: red;
+  color: #f00;
+  font-weight: bold;
 }
 
-li a:hover {
-  background-color: red;
-  color: white;
+.nav-item a:hover {
+  color: #d00;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
+.banner {
+  position: relative;
+  text-align: center;
 }
 
-button {
-  background-color: red;
-  color: white;
-  padding: 10px 20px;
+.banner-image {
+  width: 100%;
+}
+
+.banner h1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 3rem;
+}
+
+.banner p {
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.cta-button {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0.8rem 1.6rem;
+  background-color: #f00;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.cta-button:hover {
+  background-color: #d00;
+}
+
+.contact-us {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.contact-form {
+  display: inline-block;
+  text-align: left;
+}
+
+.contact-form label,
+.contact-form input,
+.contact-form textarea {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.submit-button {
+  background-color: #f00;
+  color: #fff;
+  padding: 0.5rem 1rem;
   border: none;
   cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
 }
 
-button:hover {
-  background-color: darkred;
+.submit-button:hover {
+  background-color: #d00;
 }
 
-h1 {
-  color: red;
+.footer {
+  background-color: #f2f2f2;
+  padding: 1rem;
+  text-align: center;
+}
+
+.footer-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.footer-item {
+  margin-left: 1rem;
+}
+
+.footer-item a {
+  text-decoration: none;
+  color: #f00;
+  font-weight: bold;
+}
+
+.footer-item a:hover {
+  color: #d00;
 }

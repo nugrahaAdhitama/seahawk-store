@@ -1,0 +1,11 @@
+seahawk-store
+├── index.html
+├── about.html
+├── shop.html
+├── privacy.html
+├── css
+│   └── style.css
+├── js
+│   └── script.js
+└── assets
+    └── images

@@ -1,0 +1,22 @@
+Landing Page:
+
+Header dengan logo dan navigasi menu
+Banner dengan call to action untuk pembelian
+Contact Us section
+Footer dengan informasi tambahan dan link ke halaman lain
+About Page:
+
+Informasi mengenai Seahawk dan misi perusahaan
+Penjelasan mengenai produk utama dan target audiens
+Shop Page:
+
+Daftar produk yang dijual beserta deskripsi dan harga
+Kemampuan untuk menambahkan produk ke keranjang
+Opsi untuk checkout dan melakukan pembelian
+Privacy Policy Page:
+
+Informasi mengenai kebijakan privasi perusahaan dan penggunaan data pelanggan
+Desain:
+
+Menggunakan warna merah sebagai warna utama brand
+Desain yang berwarna dan menarik

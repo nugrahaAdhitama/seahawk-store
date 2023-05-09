@@ -1,0 +1,8 @@
+Company Name:
+Seahawk
+
+Company Description:
+We are a family store that sells kitchen accessiores. Our main product stands out because of its reputation and convenience. Our target audience is couples. We want to convey a sense of importance, while at the same time being calm.
+
+Job Description:
+You must create a website that will mainly make it easy to contact the company. The goal is to provide a great user experience. Besides the landing page, the website will need a about page, shop page and a privacy policy page. The landing page should have a Contact Us section. There should be a call to action to get users to make a purchase. They would prefer a colorful design, and would like you to use the brand color, which is red. Take into account the client's preferences and values.
