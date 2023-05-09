@@ -140,3 +140,20 @@ body {
 .footer-item a:hover {
   color: #d00;
 }
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.about-content h1,
+.about-content h2 {
+  color: #f00;
+  margin-bottom: 1rem;
+}
+
+.about-content p {
+  margin-bottom: 2rem;
+}
